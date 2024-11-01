@@ -1,0 +1,1 @@
+tiet_kiem minh_man rut_tien anh_ca gia_dinh con_nguoi qua_doi em_gai chua lap gia_dinh hai tiet_kiem toi dung_ten phan tai_san phan tien tiet_kiem toi tai_khoan ngan_hang phan tien che_do em_gai mat co_quan bao_hiem_xa_hoi chuyen huong_dan thu_tuc nhu_the_nao toi em_gai lai rut_tien hai tiet_kiem mat tai_khoan chi_tra viec phung_duong cam_on tu_van
