@@ -1,1 +1,1 @@
-# Text Classification Using Multinaltional Naive Bayes and KNN
+# Text Classification Using Multinational Naive Bayes and KNN
